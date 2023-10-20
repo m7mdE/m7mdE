@@ -19,7 +19,7 @@ Working through data every day led me to curiosity in asking many questions. I a
 
 ---
 ### My Work
-- 🌱 My first project on <a href="https://github.com/m7mdE/twitter_sentiment">Twitter Sentiment</a> where I am analyzing user behavior on Twitter by using a machine learning model to determine if the tweet is either positive or negative. 
+- 🌱 My capstone project on <a href="https://github.com/m7mdE/twitter_sentiment">Twitter Sentiment</a>, using Supervised Learning, where I am analyzing user behavior on Twitter by using a machine learning NLP model to determine if the tweet is either positive or negative. 
 
 ---
 ### Languages and Tools:
