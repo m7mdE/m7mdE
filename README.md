@@ -19,6 +19,7 @@ Working through data every day led me to curiosity in asking many questions. I a
 
 ---
 ### My Work
+- 🚀 Participated in the <a href="https://github.com/m7mdE/MMA-Datathon-Supermarket-Analysis">MMA Datathon</a>, for 2 weeks long. Our main objective is to enhance the MM&A Experience by responding to high demand from Instabasket personal shoppers.
 - 🌱 My capstone project on <a href="https://github.com/m7mdE/twitter_sentiment">Twitter Sentiment</a>, using Supervised Learning, where I am analyzing user behavior on Twitter by using a machine learning NLP model to determine if the tweet is either positive or negative. 
 
 ---
